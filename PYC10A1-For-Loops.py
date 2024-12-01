@@ -16,7 +16,7 @@ for aizaz in a:
 
 # sum of whole numbers
 
-num = int(input("Enter the number whose sum you want..."))
+num = int(input("Enter the number whose sum you want to....."))
 sum=0
 
 for i in range(1, num+1):
