@@ -30,3 +30,6 @@ elif way_checking == "straight":
     print("Hell is a type of world other than the earth. \n It is composed of only devils and no angel is present there and everywhere is fire and lava. \n So bye bye to hell do come again..")
 else:
     print("If you will go back soon without seeing the straight way so you are unlucky...")
+
+
+
