@@ -7,4 +7,4 @@ while i < len(number):
         count += 1
     i += 1
 
-print("The total number of digits is:", count)
+print("The total number of digits is:", count, 100, "")
