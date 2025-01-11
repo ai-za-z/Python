@@ -14,4 +14,4 @@ tangent = math.tan(angle_radians)
 # Print the results
 print(f"Sine of {angle_degrees} degrees: {sine}")
 print(f"Cosine of {angle_degrees} degrees: {cosine}")
-print(f"Tangent of {angle_degrees} degrees: {tangent}")
+print(f"Tangent of {angle_degrees} degrees: {tangent}"
